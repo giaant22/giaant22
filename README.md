@@ -1,4 +1,4 @@
-## Hey hey. I'm Gia! ![Take With Full Credit - Dibujos Kawaii De Molang PNG Image _ Transparent PNG Free Download on SeekPNG](https://github.com/user-attachments/assets/67cf29a2-3de3-484c-9653-d5f1980af603)
+## Hey hey. I'm Gia! ![Gfycat, molang, face, text png](https://github.com/user-attachments/assets/03a34942-9b38-4d1b-9c07-0ffc28eb3228)
 
 I am a BS Computer Science student at the University of Michigan's College of Literature, Science, and the Arts. I plan to pursue a career in Product Management, leveraging my technical expertise in software development.
 
