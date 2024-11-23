@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey hey. I'm Gia! ![Pusheen Plush](https://github.com/user-attachments/assets/4907d6dc-97c0-41cd-8d87-caca1cc6799e)
 
-<!--
-**giaant22/giaant22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BS Computer Science student at the University of Michigan's College of Literature, Science, and the Arts. I plan to pursue a career in Product Management, leveraging my technical expertise in software development.
 
-Here are some ideas to get you started:
+### Skills and Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming Languages**: Java, C, C++, JavaScript, TypeScript, HTML/CSS
+**Frameworks**: Spring Boot, Next.js, React.js, Tailwind CSS
+**Tools**: Nginx, Google Cloud Platform, MongoDB, SQLite, Figma, Vercel, Git, Unix/Linux
+
+### About me
+
+Outside of school, I'm passionate about:
+
+- Leadership extracurriculars
+- Tea tasting
+- Solving Sudoku puzzles
+- Read romance novels
+- Cooking
