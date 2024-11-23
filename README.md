@@ -1,4 +1,5 @@
-## Hey hey. I'm Gia! ![Gfycat, molang, face, text png](https://github.com/user-attachments/assets/03a34942-9b38-4d1b-9c07-0ffc28eb3228)
+## Hey hey. I'm Gia! ![pngegg](https://github.com/user-attachments/assets/b1fc3ba5-9cf1-4696-8a92-c3da1ae88203)
+
 
 I am a BS Computer Science student at the University of Michigan's College of Literature, Science, and the Arts. I plan to pursue a career in Product Management, leveraging my technical expertise in software development.
 
